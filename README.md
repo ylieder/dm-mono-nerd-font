@@ -1,2 +1,2 @@
-# dm-mono-nerd-font
-DM Mono Nerd Font
+# DM Mono Nerd Font
+DM Mono Nerd Font (complete)
